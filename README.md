@@ -45,3 +45,17 @@ skills/
 - `vscode-chat-participant-ux`
 - `vscode-chat-participant-testing`
 - `vscode-chat-participant-review`
+
+## External skills
+
+Third-party skills are not vendored here. Install them from upstream with the
+`skills` CLI so they stay updatable and keep their provenance:
+
+```bash
+npx skills add sveltejs/ai-tools -g -a codex -a pi   # svelte-code-writer, svelte-core-bestpractices
+npx skills update                                   # refresh everything in the lockfile
+```
+
+The record of what is installed is the CLI lockfile (`~/.agents/.skill-lock.json`
+for global installs). Claude Code gets the Svelte skills from the official
+`svelte` plugin instead, which also carries the MCP server and agent.
