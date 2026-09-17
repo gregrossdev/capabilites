@@ -31,6 +31,12 @@ skills/
 
 ## Current skills
 
+### Skill authoring
+
+- `skill-authoring` — create, revise, split, and maintain reusable skills in this repository
+
+### VS Code Chat Participants
+
 - `vscode-chat-participant-core`
 - `vscode-chat-participant-context`
 - `vscode-chat-participant-tools`
