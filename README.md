@@ -31,9 +31,10 @@ skills/
 
 ## Current skills
 
-### Skill authoring
+### Skill authoring and lifecycle
 
 - `skill-authoring` — create, revise, split, and maintain reusable skills in this repository
+- `skill-lifecycle-manager` — review real work, patch weak/stale skills, and create new skills when durable workflows emerge
 
 ### VS Code Chat Participants
 
