@@ -41,6 +41,7 @@ skills/
 ### Product and UX
 
 - `generate-ux-patterns` — generate 3–5 genuinely different interaction models for a feature, with drivers, tradeoffs, and a recommendation
+- `generate-design-directions` — generate distinct visual design directions by varying a few independent design axes, grounded in the product's subject
 
 ### VS Code Chat Participants
 
