@@ -38,6 +38,10 @@ skills/
 - `skills-install-and-use` — discover, install, load, and maintain skills with the skills.sh CLI or by hand, for any agent or LLM
 - `adopt-and-audit-skill` — fit a third-party skill to your own stack, then re-audit it on a schedule with a bias toward removal
 
+### Product and UX
+
+- `generate-ux-patterns` — generate 3–5 genuinely different interaction models for a feature, with drivers, tradeoffs, and a recommendation
+
 ### VS Code Chat Participants
 
 - `vscode-chat-participant-core`
