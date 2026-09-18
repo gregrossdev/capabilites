@@ -36,6 +36,7 @@ skills/
 - `skill-authoring` — create, revise, split, and maintain reusable skills in this repository
 - `skill-lifecycle-manager` — review real work, patch weak/stale skills, and create new skills when durable workflows emerge
 - `skills-install-and-use` — discover, install, load, and maintain skills with the skills.sh CLI or by hand, for any agent or LLM
+- `adopt-and-audit-skill` — fit a third-party skill to your own stack, then re-audit it on a schedule with a bias toward removal
 
 ### VS Code Chat Participants
 
