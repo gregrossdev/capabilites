@@ -42,6 +42,7 @@ skills/
 
 - `generate-ux-patterns` — generate 3–5 genuinely different interaction models for a feature, with drivers, tradeoffs, and a recommendation
 - `generate-design-directions` — generate distinct visual design directions by varying a few independent design axes, grounded in the product's subject
+- `state-invariant-review` — review a spec or flow document against its build for impossible states, conflicting rules, missing transitions, transitions with two owners, unenforced invariants, and vocabulary drift
 
 ### VS Code Chat Participants
 
